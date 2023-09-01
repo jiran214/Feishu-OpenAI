@@ -10,10 +10,10 @@ services:
     # volumes:
     #   - ./code/config.yaml:/app/config.yaml:ro
     environment:
-      - APP_ID=cli_a47a7a06d8b8d00d
-      - APP_SECRET=lopWDiubxy9qCF3z6UAhVgIpToVVKvty
-      - APP_ENCRYPT_KEY=17Smquq7RcoIuR0Wsy08TftIZLqkBkD4
-      - APP_VERIFICATION_TOKEN=WY3oFKdWIvZL3B1MNpRJNgwbaZMkYgTa
+      - APP_ID=cli_a42906d1307cd00d
+      - APP_SECRET=nkgDfyXeQ1EJT5pb8uKeDePLtnASYGcI
+      - APP_ENCRYPT_KEY=px3qrPKVv14HWnLWXu4zneDYx4bShFZ1
+      - APP_VERIFICATION_TOKEN=SylDJ0EsZMsxT6Ymp7pz1dUsb48qUBjW
       # 请确保和飞书应用管理平台中的设置一致
       - BOT_NAME=chatGpt
       # OpenAI API Key 支持负载均衡, 可以填写多个 Key 用逗号分隔
